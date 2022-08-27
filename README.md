@@ -26,7 +26,6 @@
 <h3 align="left">Frontend Stack</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react&color=blue&logoColor=white"></img>
-   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs"></img>
 </p>
 
 <h3 align="left">Backend Stack</h3>
@@ -37,15 +36,13 @@
 
 <h3 align="left">Test Stack</h3>
 <p>
-   <img alt="RSpec" src="https://img.shields.io/badge/rspec-FF0000?style=for-the-badge&color=red"></img> 
+  n/a
 </p>
 
 
 <h3 align="left">Databases and cloud hosting</h3>
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
     <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
   
